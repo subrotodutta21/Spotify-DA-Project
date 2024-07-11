@@ -1,6 +1,6 @@
 # Spotify Data Analysis Project
 
-![intro pic](ASSESTS/PROJECT INTRO.png)
+![intro pic](.Assets/ PROJECT INRO.png)
 
 The project focuses on unraveling trends in music consumption and the factors shaping music production using Spotify datasets spanning from the 1920s to the 2020s. It unfolds through three key phases: data preparation, where meticulous cleaning, formatting, and optimization of the dataset ensure its readiness for analysis; data exploration, involving the analysis of top tracks and artists, assessing popularity trends, and uncovering initial insights through descriptive statistics; and finally, the data visualization phase, where correlation heatmaps, regression analysis scatter plots, and trend analyses over time are created. These phases collectively aim to provide a comprehensive understanding of how music trends have evolved over the past century
 
