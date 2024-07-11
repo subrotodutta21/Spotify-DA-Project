@@ -4,6 +4,11 @@
 
 The project focuses on unraveling trends in music consumption and the factors shaping music production using Spotify datasets spanning from the 1920s to the 2020s. It unfolds through three key phases: data preparation, where meticulous cleaning, formatting, and optimization of the dataset ensure its readiness for analysis; data exploration, involving the analysis of top tracks and artists, assessing popularity trends, and uncovering initial insights through descriptive statistics; and finally, the data visualization phase, where correlation heatmaps, regression analysis scatter plots, and trend analyses over time are created. These phases collectively aim to provide a comprehensive understanding of how music trends have evolved over the past century
 
+## Datasets Used
+
+- [Tracks Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+- [Genre Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+
 ## Tools used
 -  Programming Language: Python
 -  Libraries Used:
@@ -20,7 +25,4 @@ The project focuses on unraveling trends in music consumption and the factors sh
 - Perform genre analysis to determine  influence on song characteristics and popularity trends.
 - Summarize key findings highlighting the most significant patterns and conclusions from the data.
 
-## Datasets Used
-
-- [Tracks Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
-- [Genre Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+## Presentation and Summary - [Spotify DA Project Presentation](https://github.com/subrotodutta21/SPOTIFY-DA-PROJECT/blob/main/SPOTIFY%20DA%20PROJECT%20PRESENTATION.pdf)
