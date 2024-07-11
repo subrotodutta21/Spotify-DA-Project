@@ -13,7 +13,7 @@ The project focuses on unraveling trends in music consumption and the factors sh
 - Additional Tools: Ms Excel
 ## Objectives
 
-- Conduct necessary data preparation process and optimize the dataset for further analysis.
+- Conduct necessary data preparation steps and optimize the dataset for further analysis.
 - Analyze top tracks and popular artists within the dataset.
 - Conduct regression analysis on different audio features.
 - Investigate trends in music production and track length over the years.
