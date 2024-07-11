@@ -24,6 +24,3 @@ The project focuses on unraveling trends in music consumption and the factors sh
 
 - [Tracks Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
 - [Genre Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
-## Presentaion and Summary
-
- [Spotify DA Presentaion](./)
