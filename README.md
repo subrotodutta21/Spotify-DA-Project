@@ -25,5 +25,5 @@ The project focuses on unraveling trends in music consumption and the factors sh
 - Perform genre analysis to determine  influence on song characteristics and popularity trends.
 - Summarize key findings highlighting the most significant patterns and conclusions from the data.
 
-## Presentation and Summary
- - [Project Presentation](https://github.com/subrotodutta21/SPOTIFY-DA-PROJECT/blob/main/SPOTIFY%20DA%20PROJECT%20PRESENTATION.pdf)
+## Presentation -
+The [presentation](https://github.com/subrotodutta21/SPOTIFY-DA-PROJECT/blob/main/SPOTIFY%20DA%20PROJECT%20PRESENTATION.pdf) showcases key insights from the project, highlighting trends in music consumption and influential characteristics for different tracks using data exploration and visualization processes and emphasized the analysis over the dataset.
