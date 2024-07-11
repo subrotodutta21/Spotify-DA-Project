@@ -3,7 +3,7 @@
 
 
 
-![PROJECT](./ASSETS/PROJECT INRO.png)
+![PROJECT](ASSETS/PROJECT INRO.png)
 
 
 
